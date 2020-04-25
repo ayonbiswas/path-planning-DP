@@ -1,6 +1,6 @@
 Description
 ===========
-This is project on path planning in gym minigrids with Dynamic Programming
+This project is on path planning in gym minigrids with Dynamic Programming
 
 Code organization
 =================
