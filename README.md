@@ -4,11 +4,11 @@ This project is on path planning in gym minigrids with Dynamic Programming
 
 Code organization
 =================
-*main.py -- Run the script for performing DP on all the environments and generate the policy and value plots.
+* main.py -- Run the script for performing DP on all the environments and generate the policy and value plots.
 
-*utils.py -- contains helper functions to load and render environments 
+* utils.py -- contains helper functions to load and render environments 
  
-*visualise_tools.py -- contains helper functions for computing optimal control sequence, creating policy and value plots.
+* visualise_tools.py -- contains helper functions for computing optimal control sequence, creating policy and value plots.
 
 Datasets
 ========
