@@ -10,6 +10,10 @@ Code organization
  
 * visualise_tools.py -- contains helper functions for computing optimal control sequence, creating policy and value plots.
 
+Results
+=======
+<img src="gif/doorkey-8x8-shortcut.gif" width="300">
+
 Datasets
 ========
 Test environments provided in envs folder
