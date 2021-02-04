@@ -13,6 +13,7 @@ Code organization
 Results
 =======
 <img src="gif/doorkey-8x8-shortcut.gif" width="300">  <img src="gif/doorkey-6x6-shortcut.gif" width="300">
+
 <img src="gif/doorkey-8x8-normal.gif" width="300">  <img src="gif/doorkey-8x8-direct.gif" width="300">
 
 Datasets
